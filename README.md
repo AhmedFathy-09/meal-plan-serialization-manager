@@ -1,6 +1,6 @@
 # Meal Plan Serialization Manager
 
-A basic Python program that lets you type in recipes and bundle them into organized meal plans. I built this project during my first year to practice creating custom Python objects and learning how to save information to text files.
+A basic Python program that lets you type in recipes and bundle them into organized meal plans. I built this project during my first semester as a python student to practice creating custom Python objects and learning how to save information to text files.
 
 ## 🛠️ What I Practiced
 * **Python Classes:** Built basic blueprints (`Recipe`, `MealPlan`, and `RecipeBook`) to keep recipe data organized in memory.
